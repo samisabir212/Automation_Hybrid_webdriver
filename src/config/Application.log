@@ -1,0 +1,66 @@
+19/01/2012 14:06:01 devpinoyLogger Server Started
+19/01/2012 14:06:06 devpinoyLogger Selected from ev_call table, first column and first row value:[1]
+19/01/2012 14:06:06 devpinoyLogger Selected from ev_call table, first column and first row value:[agent_enddate23022011050404]
+19/01/2012 14:06:06 devpinoyLogger Executing the test CheckHeaderLinks
+19/01/2012 14:06:06 devpinoyLogger Executing Navigate
+19/01/2012 14:06:14 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:14 devpinoyLogger Error came
+19/01/2012 14:06:14 devpinoyLogger ***********************************CheckHeaderLinks --- Pass
+19/01/2012 14:06:14 devpinoyLogger Executing the test LoginTest
+19/01/2012 14:06:14 devpinoyLogger Executing wait Keyword
+19/01/2012 14:06:24 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:24 devpinoyLogger Executing clickLink
+19/01/2012 14:06:25 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:25 devpinoyLogger Executing wait Keyword
+19/01/2012 14:06:30 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:30 devpinoyLogger Executing input Keyword
+19/01/2012 14:06:30 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:30 devpinoyLogger Executing wait Keyword
+19/01/2012 14:06:35 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:35 devpinoyLogger Executing select Keyword
+19/01/2012 14:06:36 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:36 devpinoyLogger Executing select Keyword
+19/01/2012 14:06:36 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:36 devpinoyLogger Executing select Keyword
+19/01/2012 14:06:36 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:36 devpinoyLogger Executing wait Keyword
+19/01/2012 14:06:41 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:41 devpinoyLogger Executing typekeys() Keyword
+19/01/2012 14:06:41 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:41 devpinoyLogger Executing wait Keyword
+19/01/2012 14:06:51 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:51 devpinoyLogger Executing input Keyword
+19/01/2012 14:06:52 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:52 devpinoyLogger Executing input Keyword
+19/01/2012 14:06:52 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:52 devpinoyLogger Executing input Keyword
+19/01/2012 14:06:52 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:52 devpinoyLogger Executing input Keyword
+19/01/2012 14:06:52 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:06:52 devpinoyLogger Executing wait Keyword
+19/01/2012 14:07:02 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:02 devpinoyLogger Executing Dynamic element present Keyword
+19/01/2012 14:07:03 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:03 devpinoyLogger Executing wait Keyword
+19/01/2012 14:07:13 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:13 devpinoyLogger Executing Dynamic element present Keyword
+19/01/2012 14:07:14 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:14 devpinoyLogger Executing wait Keyword
+19/01/2012 14:07:24 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:24 devpinoyLogger Executing select Keyword
+19/01/2012 14:07:25 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:25 devpinoyLogger Executing select Keyword
+19/01/2012 14:07:25 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:25 devpinoyLogger Executing select Keyword
+19/01/2012 14:07:25 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:25 devpinoyLogger Executing select Keyword
+19/01/2012 14:07:26 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:26 devpinoyLogger Executing select Keyword
+19/01/2012 14:07:26 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:26 devpinoyLogger Executing clickLink
+19/01/2012 14:07:26 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:26 devpinoyLogger Executing Dynamic element present Keyword
+19/01/2012 14:07:26 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:26 devpinoyLogger Executing wait Keyword
+19/01/2012 14:07:36 devpinoyLogger ***Result of execution -- Pass
+19/01/2012 14:07:36 devpinoyLogger ***********************************LoginTest --- Pass
